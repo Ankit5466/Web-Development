@@ -1,0 +1,18 @@
+{
+  "params":
+  {
+   "local_server":"True",
+   "local_uri": "mysql://root:@localhost/blog",
+   "prod_uri": "mysql://root:@localhost/blog",
+   "fb_url": "https://facebook.com/blog",
+   "twitter_url": "https://twitter.com/blog",
+   "git_url": "https://github.com/blog",
+   "about_text": "Hello, My name is Ankit Sharma. I'm final year Mechanical Engineering Student",
+   "blog_name": "start blogging",
+   "no_of_posts": 2,
+   "admin_user": "*",
+   "admin_password": "*",
+   "upload_location": "C:\\Users\\Ankit Sharma\\Downloads\\WebDevProject\\Flask_web"
+  }
+
+}
