@@ -10,6 +10,7 @@ import os
 with open('config.json', 'r') as c:
     params = json.load(c)["params"]
 
+# flask app, connection with database
 local_server = True
 app = Flask(__name__)
 app.secret_key = 'super-secret-key'
